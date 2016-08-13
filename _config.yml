@@ -1,0 +1,14 @@
+layout_spectrum: 0.6667295591905713
+typography_spectrum: 0.93467011814937
+color:
+  brandStrength: 0.13685013353824615
+  lightness: 0.4971373293083161
+  saturation: 0.31585225253365934
+  rhythmicContrast: 0.762175704119727
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Happening
